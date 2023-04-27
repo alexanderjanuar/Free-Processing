@@ -34,6 +34,18 @@ streamlit run app.py
 ```
 
 ## Usage
-![Alt Text](https://github.com/alexanderjanuar/Free-Processing/blob/main/demo.mp4)
+![Alt Text](https://github.com/alexanderjanuar/Free-Processing/blob/main/demo.gif)
+
+Link Usage:
+
+https://alexanderjanuar-free-processing-app-yw5o6d.streamlit.app/
+
+## Acknowledgments
+- https://pandas.pydata.org/docs/index.html
+- https://docs.streamlit.io/
+- https://plotly.com/graphing-libraries/
+- https://www.v7labs.com/blog/data-preprocessing-guide
+
+*Any input on this work, which is currently under development, would be very appreciated.*
 
 
