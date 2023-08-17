@@ -12,8 +12,8 @@ As of now, here is some features from the program:
   - Data Transformation
     - Scaling
     - Encoding
-  - Data Reduction (*soon*)
-- Image Preprocessing (*soon*)
+  - Data Reduction
+
 
 # Getting Started
 
